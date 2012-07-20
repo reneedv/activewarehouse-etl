@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ETL
   module Processor
     # Ensure that each specified field is available

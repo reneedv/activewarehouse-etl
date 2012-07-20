@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ETL #:nodoc:
   module Processor #:nodoc:
     # Processor which is used to bulk import data into a target database. The

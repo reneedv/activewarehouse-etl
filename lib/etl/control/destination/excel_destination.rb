@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 optional_require 'spreadsheet'
 
 module ETL

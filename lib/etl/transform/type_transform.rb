@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ETL #:nodoc:
   module Transform #:nodoc:
     # Transform from one type to another

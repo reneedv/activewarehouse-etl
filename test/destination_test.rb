@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'spreadsheet'
 require File.dirname(__FILE__) + '/test_helper'
 

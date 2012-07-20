@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ETL #:nodoc:
   module Transform #:nodoc:
     # Transform which will replace nil or empty values with a specified value.

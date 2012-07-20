@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # This source file contains the ETL::Parser module and requires all of the files
 # in the parser directory ending with .rb
 

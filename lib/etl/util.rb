@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ETL
   module Util
     # Return the distance of time in words from the given from_time to the specified to_time. If to_time

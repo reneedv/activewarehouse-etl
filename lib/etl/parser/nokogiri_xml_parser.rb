@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 optional_require 'nokogiri'
 require 'open-uri'
 optional_require 'zlib'

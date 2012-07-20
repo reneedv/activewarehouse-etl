@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ETL #:nodoc:
   module Builder #:nodoc:
     # A builder which will build a data structure which can be used to populate a date dimension using 

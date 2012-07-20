@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ETL #:nodoc:
   module Parser #:nodoc:
     # Parser which can parser the Apache Combined Log Format as defined at

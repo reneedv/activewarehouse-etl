@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'open3'
 
 # Internal: The MySQL streamer is a helper with works with the database_source

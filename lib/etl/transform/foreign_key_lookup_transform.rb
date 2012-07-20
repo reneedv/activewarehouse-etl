@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ETL #:nodoc:
   module Transform #:nodoc:
     # Transform which looks up the value and replaces it with a foriegn key reference

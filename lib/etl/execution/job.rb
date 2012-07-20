@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ETL #:nodoc:
   module Execution #:nodoc:
     # Persistent class representing an ETL job

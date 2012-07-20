@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ETL #:nodoc:
   module Parser #:nodoc:
     # Parser for fixed with files

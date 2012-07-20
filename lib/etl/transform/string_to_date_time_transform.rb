@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ETL #:nodoc:
   module Transform #:nodoc:
     # Transform a String representation of a date to a DateTime instance

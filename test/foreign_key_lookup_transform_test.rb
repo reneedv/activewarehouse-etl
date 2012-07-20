@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require File.dirname(__FILE__) + '/test_helper'
 
 # TODO - use flexmock instead, but I'm not sure how to handle the respond_to part yet

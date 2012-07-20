@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # This source file contains the ETL::Processor module and requires all of the processors
 
 module ETL #:nodoc:

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ETL #:nodoc:
   module Processor #:nodoc:
     # Row-level processor that will convert a single row into multiple rows designed to be inserted

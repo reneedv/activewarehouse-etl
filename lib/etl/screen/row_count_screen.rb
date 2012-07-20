@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ETL
   module Screen
     # This screen validates the number of rows which will be bulk loaded

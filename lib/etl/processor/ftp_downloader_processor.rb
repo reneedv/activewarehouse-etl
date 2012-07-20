@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Written by Susan Potter  under open source MIT license.
 # August 12, 2007.
 

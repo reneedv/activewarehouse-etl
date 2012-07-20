@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ETL #:nodoc: 
   module Transform #:nodoc:
     # Transform which walks up the hierarchy tree to find a value of the current level's value

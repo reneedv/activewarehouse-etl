@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ETL #:nodoc:
   module Builder #:nodoc:
     # Builder that creates a simple time dimension.

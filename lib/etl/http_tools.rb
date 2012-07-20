@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'uri'
 
 # Module which has utility methods for HTTP.

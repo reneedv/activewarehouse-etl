@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # This source file requires all of the necessary gems and source files for ActiveWarehouse ETL. If you
 # load this source file all of the other required files and gems will also be brought into the 
 # runtime.

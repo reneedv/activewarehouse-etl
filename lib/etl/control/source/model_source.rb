@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 #RAILS_ENV = 'development'
 #require '../config/environment'
 

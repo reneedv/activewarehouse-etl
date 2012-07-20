@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ETL #:nodoc:
   module Parser #:nodoc:
     # Base parser class. Implementation classes must extend this class and implement

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ETL #:nodoc:
   module Processor #:nodoc:
     # Debugging processor for printing the current row

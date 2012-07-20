@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'rexml/parsers/sax2parser'
 require 'rexml/sax2listener'
 

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ETL #:nodoc:
   module Batch #:nodoc:
     # Abstract base class for directives

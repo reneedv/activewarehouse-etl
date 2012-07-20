@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ETL #:nodoc:
   module Processor #:nodoc:
     # Row processor that checks whether or not the row has already passed 

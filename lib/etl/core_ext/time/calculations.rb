@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 #Updated by Jack Hong on 04/05/08
 
 module ETL #:nodoc:

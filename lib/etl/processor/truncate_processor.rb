@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ETL #:nodoc:
   module Processor #:nodoc:
     # A processor which will truncate a table. Use as a pre-processor for cleaning out a table

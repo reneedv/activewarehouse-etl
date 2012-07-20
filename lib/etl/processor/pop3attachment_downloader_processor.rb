@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 optional_require 'net/pop'
 optional_require 'tmail'
 

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 def declare_gems(activerecord_version)
   source :rubygems
 

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ETL
   module Processor
     # This processor is both a valid RowProcessor (called on each row with after_read) or a Processor (called once on pre_process or post_process)

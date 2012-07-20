@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ETL
   module Processor
     class FilterRowProcessor < ETL::Processor::RowProcessor

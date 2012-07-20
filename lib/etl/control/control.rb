@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ETL #:nodoc:
   module Control #:nodoc:
     # The Context is passed to eval. 

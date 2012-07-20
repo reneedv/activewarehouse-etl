@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ETL #:nodoc
   # Classes which store information about ETL execution
   module Execution

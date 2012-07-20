@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ETL #:nodoc:
   module Control #:nodoc:
     # Use an Enumerable as a source

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ETL #:nodoc:
   module Control #:nodoc:
     # ETL source. Subclasses must implement the <tt>each</tt> method.

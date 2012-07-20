@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ETL #:nodoc:
   module Execution #:nodoc
     # Handles migration of tables required for persistent storage of meta data 

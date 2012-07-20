@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # This source file contains the ETL::Control::CsvDestination
 
 module ETL #:nodoc:

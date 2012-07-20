@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'active_support/core_ext/integer/inflections.rb'
 
 module ETL #:nodoc:

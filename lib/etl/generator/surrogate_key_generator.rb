@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # This source file contains code for a basic sequential surrogate key generator
 
 module ETL #:nodoc:
